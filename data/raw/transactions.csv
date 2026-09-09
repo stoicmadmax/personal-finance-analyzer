@@ -1,0 +1,11 @@
+date,description,amount,type,category,account
+2026-09-01,Salary,50000,income,salary,bank
+2026-09-02,Rent,15000,expense,housing,bank
+2026-09-03,Electricity Bill,1800,expense,utilities,bank
+2026-09-04,Grocery Store,3200,expense,groceries,bank
+2026-09-05,Restaurant,850,expense,food,bank
+2026-09-06,Uber,450,expense,transport,bank
+2026-09-07,Amazon,1200,expense,shopping,bank
+2026-09-08,Freelance Work,5000,income,freelance,bank
+2026-09-09,Mobile Bill,699,expense,utilities,bank
+2026-09-10,Coffee Shop,250,expense,food,cash
